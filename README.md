@@ -15,7 +15,7 @@
 <br>
 
 ## LANGUAGES & TOOLS
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,c,cpp,java,bootstrap,codepen,html,css,js,discord,py,vscode," />
   </a>
